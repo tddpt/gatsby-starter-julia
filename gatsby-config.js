@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Julia Doe`,
-    subtitle: `software developer`,
-    description: `A minimal blog starter built with Gatsbyjs. The needed Gatsby files are included.`,
-    author: `@niklasmtj`,
+    title: `toddpeterson.men`,
+    subtitle: `this is tagged ✔men`,
+    description: `tribute to men.`,
+    author: `@bendbanana`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

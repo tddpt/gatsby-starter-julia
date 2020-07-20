@@ -3,8 +3,10 @@ code {
 }
 
 body {
+  background-color: #1A0010;
   margin: 0;
   font-family: "Nunito", "Avenir", "Helvetica", "sans-serif";
+  color: #BD476B;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -630,4 +632,7 @@ a::selection {
   html {
     font-size: 100%;
   }
+}
+.liberace {
+  width: 75%;
 }
