@@ -37,7 +37,7 @@ const ReadingTime = styled.h5`
 const IndexPage = ({ data }) => {
   return (
     <Layout>
-      <SEO title="blog" />
+      <SEO title="Blog" />
       <Content>
         <h1>Blog</h1>
         {data.allMarkdownRemark.edges
@@ -58,7 +58,6 @@ const IndexPage = ({ data }) => {
                 <MarkerHeader>{node.frontmatter.title} </MarkerHeader>
                 <div>
                   <ArticleDate>{node.frontmatter.date}</ArticleDate>
-                  <ReadingTime> - {node.fields.readingTime.text}</ReadingTime>
                 </div>
                 <p>{node.excerpt}</p>
               </Link>

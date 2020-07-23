@@ -15,6 +15,7 @@ const OuterContainer = styled.div`
   justify-content: center;
   flex-direction: row;
   height: 78vh;
+  margin-bottom: 2rem;
 `
 
 const Description = styled.p`
@@ -25,7 +26,7 @@ const Description = styled.p`
 `
 
 const NameHeader = styled.h1`
-  font-size: 3.5rem;
+  font-size: 2rem;
   margin-bottom: 0;
   color: #BD476B;
 `
