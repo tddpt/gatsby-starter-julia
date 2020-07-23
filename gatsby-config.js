@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `toddpeterson.men`,
-    subtitle: `this is tagged ✔men`,
+    subtitle: `#rugged`,
     description: `tribute to men.`,
     author: `@bendbanana`,
   },

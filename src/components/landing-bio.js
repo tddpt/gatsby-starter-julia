@@ -52,7 +52,7 @@ const LandingBio = () => (
              <img className="liberace"  src="images/liberace.svg" alt="liberace" />
           </div>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
-          {/* <Description>{data.site.siteMetadata.subtitle}</Description> */}
+          <Description>{data.site.siteMetadata.subtitle}</Description>
         </Container>
       </OuterContainer>
     )}

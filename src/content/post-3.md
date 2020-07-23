@@ -1,32 +1,16 @@
 ---
-title: "Code Example"
-date: "2019-06-06"
+title: "Dead Guys"
+date: "2020-07-23"
 draft: false
-path: "/blog/code-example"
+path: "/blog/dead-guys"
 ---
+![Michael Brooks](https://res.cloudinary.com/squashbox/image/upload/v1595509595/media/m-brooks_xc754m.jpg)
+![Selma March](https://res.cloudinary.com/squashbox/image/upload/v1595509512/media/Selma_March_web_e2gndn.jpg)
 
-## An Code example with PrismJS
-Gatsby-Starter-Julia uses the Atom Editor Theme.
+I lost two men within days of each other.
 
-```js
-console.log("Hello World");
-```
+The takes are out there in abundance. Here is mine.
 
-## Default NodeJS server
+The work they did made me feel less alone in this deep-red hellscape. We will persevere.
 
-```js
-const http = require('http');
-
-const hostname = '127.0.0.1';
-const port = 3000;
-
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World\n');
-});
-
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
-});
-```
+Rest In Power <i class="fas fa-fist-raised"></i>

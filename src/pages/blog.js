@@ -59,7 +59,6 @@ const IndexPage = ({ data }) => {
                 <div>
                   <ArticleDate>{node.frontmatter.date}</ArticleDate>
                 </div>
-                <p>{node.excerpt}</p>
               </Link>
             </div>
           ))}
